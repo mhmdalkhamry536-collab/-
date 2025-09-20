@@ -1,0 +1,22 @@
+# # ملفات البناء
+gradle/
+build/
+*.aab
+*.apk
+
+# إعدادات محلية
+local.properties
+
+# سجلات النظام
+*.log
+
+# إعدادات IDE
+*.iml
+.idea/
+
+# مفاتيح التوقيع
+*.jks
+*.keystore
+
+# Google Services (Firebase)
+google-services.json
